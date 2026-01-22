@@ -1,14 +1,59 @@
 body{
-	background-color: lightblue
+
+background-color: #9c9c9c;
+
 }
+
+
 
 img {
-	display: block;
-	width: 35px;
-	height: 25px;
+
+display: block;
+
+width: 35px;
+
+height: 25px;
+
 }
 
-.texto-debajo{
-	font-weight: bold;
+
+
+h1{
+
+font-family: 'Roboto', sans-serif;
+
+color: #4B5320;
+
 }
 
+
+
+figcaption {
+
+text-align: center;
+
+font-family: 'Roboto', sans-serif;
+
+font-weight: bold;
+
+}
+
+
+
+a figcaption {
+
+    color: black !important;
+
+    text-decoration: none !important;
+
+}
+
+
+
+a:visited figcaption {
+
+    color: black !important;
+
+text-decoration: none !important;
+
+}
